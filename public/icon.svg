@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="同行 App 圖示">
+  <rect width="512" height="512" rx="120" fill="#153f1f"/>
+  <path d="M78 333c52-22 82-83 135-91 52-8 75 47 122 43 39-4 61-40 99-75v144H78z" fill="#4e9a3a"/>
+  <circle cx="386" cy="122" r="54" fill="#f5a12b"/>
+  <path d="M140 354c18-111 78-177 181-214" fill="none" stroke="#fffdf6" stroke-width="34" stroke-linecap="round" stroke-dasharray="2 61"/>
+  <path d="M328 114l42 11-15 41" fill="none" stroke="#fffdf6" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

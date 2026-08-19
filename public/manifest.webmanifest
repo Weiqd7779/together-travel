@@ -1,0 +1,19 @@
+{
+  "name": "同行｜跨世代共遊",
+  "short_name": "同行",
+  "description": "讓規劃者與旅伴都能安心使用的跨世代共遊 App。",
+  "lang": "zh-Hant",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fff9ec",
+  "theme_color": "#153f1f",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
