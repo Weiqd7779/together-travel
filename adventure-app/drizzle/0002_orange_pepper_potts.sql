@@ -1,0 +1,1 @@
+ALTER TABLE `rooms` ADD `started` integer DEFAULT 0 NOT NULL;

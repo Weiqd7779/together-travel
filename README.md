@@ -1,3 +1,8 @@
+> 新增手繪奇幻冒險版：[adventure-app](adventure-app/README.md)。手機優先的大廳集合、聊天貼圖、圓形頭像探索地圖與集合旗幟。
+>
+> [60 秒亮點影片](https://github.com/Weiqd7779/together-travel/releases/tag/adventure-preview-2026-10-04) · [線上私人預覽](https://ximen-together-tales.qd7779winston.chatgpt.site) · [影片分鏡](output/together-adventure-storyboard.md)
+>
+> 下方是原有共遊行程版的使用說明；冒險版請從 adventure-app 資料夾執行。
 # 同行｜讓不同世代一起看懂旅程
 
 同行是一個為家族旅行與多人共遊設計的 Web App。它把「誰負責規劃」和「誰只需要跟著走」分成不同角色，讓長輩、孩子與規劃者都能看到同一份最新行程，不必在聊天訊息、試算表和截圖之間反覆確認。
